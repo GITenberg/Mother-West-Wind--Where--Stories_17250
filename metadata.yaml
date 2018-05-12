@@ -1,0 +1,41 @@
+_repo: Mother-West-Wind--Where--Stories_17250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Stories about when Father Frog got his big mouth, how Yap-Yap the prairie
+  dog used his wits, and many other stories.
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2005-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+tableOfContents: Where Grandfather Frog Got His Big Mouth -- Where Miser the Trade
+  Rat First Set Up Shop -- Where Yap-Yap the Prairie Dog Used His Wits -- Where Yellow-Wing
+  Got His Liking for the Ground -- Where Little Chief Learned To Make Hay -- Where
+  Glutton the Wolverine Got His Name -- Where Old Mrs. 'Gator Made the First Incubator
+  -- Where Mr. Quack Got His Webbed Feet  -- Where Thunderfoot the Bison Got His Hump
+  -- Where Limberheels Got His Long Tail -- Where Old Mr. Gobbler Got the Strutting
+  Habit -- Where Seek-Seek Got His Pretty Coat -- Where Old Mr. Osprey Learned To
+  Fish -- Where Old Mr. Bob-Cat Left His Honor -- Where Dippy the Loon Got the Name
+  of Being Crazy -- Where Big-Horn Got His Curved Horns.
+title: Mother West Wind "Where" Stories
+url: http://www.gutenberg.org/ebooks/17250
